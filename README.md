@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0624-maximum-distance-in-arrays](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0906-walking-robot-simulation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0909-stone-game) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Enumeration
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
 |  |
