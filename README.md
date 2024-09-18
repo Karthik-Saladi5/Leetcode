@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0906-walking-robot-simulation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0909-stone-game) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 ## Database
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0179-largest-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
