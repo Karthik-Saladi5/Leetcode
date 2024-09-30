@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0906-walking-robot-simulation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0909-stone-game) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0729-my-calendar-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0731-my-calendar-ii) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0729-my-calendar-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0731-my-calendar-ii) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
