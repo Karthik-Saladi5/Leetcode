@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0906-walking-robot-simulation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0909-stone-game) |
 | [1256-rank-transform-of-an-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0231-power-of-two) |
 | [0650-2-keys-keyboard](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0909-stone-game) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2155-find-missing-observations](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
