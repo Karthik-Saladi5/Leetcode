@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0055-jump-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 ## Database
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0650-2-keys-keyboard](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0909-stone-game) |
 ## Game Theory
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0410-split-array-largest-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0729-my-calendar-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0731-my-calendar-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
