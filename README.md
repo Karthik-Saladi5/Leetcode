@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0179-largest-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1002-maximum-width-ramp](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1002-maximum-width-ramp) |
 ## Heap (Priority Queue)
 |  |
