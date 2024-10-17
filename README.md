@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0231-power-of-two](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0231-power-of-two) |
 | [0650-2-keys-keyboard](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0670-maximum-swap) |
 | [0909-stone-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0909-stone-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
