@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0179-largest-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0179-largest-number) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0410-split-array-largest-sum) |
