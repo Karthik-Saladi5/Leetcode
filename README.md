@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0906-walking-robot-simulation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0909-stone-game) |
 | [1002-maximum-width-ramp](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1036-rotting-oranges](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1036-rotting-oranges](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1036-rotting-oranges) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
