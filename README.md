@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2580-circular-sentence](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1923-sentence-similarity-iii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
