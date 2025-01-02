@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2551-apply-operations-to-an-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3221-find-the-peaks](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3221-find-the-peaks) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-find-the-highest-altitude](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2300-construct-string-with-repeat-limit](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2580-circular-sentence](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
