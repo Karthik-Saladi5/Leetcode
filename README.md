@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0670-maximum-swap](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0670-maximum-swap) |
 | [0909-stone-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0909-stone-game) |
 | [0910-nth-magical-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0910-nth-magical-number) |
+| [1013-fibonacci-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2155-find-missing-observations](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2155-find-missing-observations) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0650-2-keys-keyboard](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0909-stone-game) |
+| [1013-fibonacci-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1013-fibonacci-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Monotonic Stack
 |  |
@@ -391,4 +394,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
