@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2691-count-vowel-strings-in-ranges](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3221-find-the-peaks](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3221-find-the-peaks) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0910-nth-magical-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0910-nth-magical-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3427-special-array-ii) |
 ## Prefix Sum
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2650-split-with-minimum-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Trie
