@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0055-jump-game) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1036-rotting-oranges](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1036-rotting-oranges) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0037-sudoku-solver) |
 | [0567-permutation-in-string](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0078-subsets) |
