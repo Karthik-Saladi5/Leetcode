@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0078-subsets) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
