@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0231-power-of-two) |
 | [0650-2-keys-keyboard](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0670-maximum-swap) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3221-find-the-peaks](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3221-find-the-peaks) |
 ## Matrix
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0204-count-primes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String
 |  |
