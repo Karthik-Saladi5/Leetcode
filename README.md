@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0410-split-array-largest-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0729-my-calendar-i) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1304-longest-happy-string](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1304-longest-happy-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
