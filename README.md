@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2155-find-missing-observations](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2155-find-missing-observations) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2650-split-with-minimum-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0204-count-primes) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
