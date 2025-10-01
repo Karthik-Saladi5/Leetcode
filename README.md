@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1642-water-bottles](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1642-water-bottles) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2155-find-missing-observations](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2155-find-missing-observations) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [1642-water-bottles](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1642-water-bottles) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
