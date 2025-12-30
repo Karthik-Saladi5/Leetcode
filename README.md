@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0731-my-calendar-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0840-magic-squares-in-grid](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0909-stone-game) |
 | [0952-word-subsets](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0952-word-subsets) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0231-power-of-two) |
 | [0650-2-keys-keyboard](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0670-maximum-swap) |
+| [0840-magic-squares-in-grid](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0909-stone-game) |
 | [0910-nth-magical-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1013-fibonacci-number) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0840-magic-squares-in-grid](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1036-rotting-oranges) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0037-sudoku-solver) |
 | [0567-permutation-in-string](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0567-permutation-in-string) |
+| [0840-magic-squares-in-grid](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0952-word-subsets) |
