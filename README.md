@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0624-maximum-distance-in-arrays](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0645-set-mismatch](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0645-set-mismatch) |
 | [0729-my-calendar-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0645-set-mismatch) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0037-sudoku-solver) |
 | [0567-permutation-in-string](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0645-set-mismatch) |
 | [0840-magic-squares-in-grid](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0645-set-mismatch](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
