@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0650-2-keys-keyboard](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1013-fibonacci-number) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Game Theory
 |  |
 | ------- |
