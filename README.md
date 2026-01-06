@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1036-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
