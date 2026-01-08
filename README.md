@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0066-plus-one](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0231-power-of-two) |
 | [0650-2-keys-keyboard](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1002-maximum-width-ramp) |
