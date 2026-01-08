@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1642-water-bottles) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1002-maximum-width-ramp](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2211-count-collisions-on-a-road) |
