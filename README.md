@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3451-string-compression-iii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3798-largest-even-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3798-largest-even-number) |
 ## Counting
 |  |
 | ------- |
