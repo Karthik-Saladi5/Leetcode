@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0410-split-array-largest-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0624-maximum-distance-in-arrays](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0645-set-mismatch](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0645-set-mismatch) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0037-sudoku-solver) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0645-set-mismatch) |
 | [0840-magic-squares-in-grid](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0840-magic-squares-in-grid) |
