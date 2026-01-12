@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1002-maximum-width-ramp](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0909-stone-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0909-stone-game) |
 | [0910-nth-magical-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1013-fibonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -542,4 +544,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
