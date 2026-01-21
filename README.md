@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3618-split-array-by-prime-indices](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3618-split-array-by-prime-indices) |
 ## Greedy
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3227-find-missing-and-repeated-values](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3618-split-array-by-prime-indices](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3618-split-array-by-prime-indices](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
