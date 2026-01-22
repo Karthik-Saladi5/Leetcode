@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3427-special-array-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3618-split-array-by-prime-indices](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3618-split-array-by-prime-indices) |
 ## Greedy
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2411-spiral-matrix-iv](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Tree
 |  |
 | ------- |
@@ -462,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0729-my-calendar-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0731-my-calendar-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -507,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search Tree
 |  |
@@ -553,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
