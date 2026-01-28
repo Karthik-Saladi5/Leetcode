@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0840-magic-squares-in-grid](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0909-stone-game) |
+| [0946-validate-stack-sequences](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0952-word-subsets](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-maximum-width-ramp](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [0946-validate-stack-sequences](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1642-water-bottles) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0946-validate-stack-sequences](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
