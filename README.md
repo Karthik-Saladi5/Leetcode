@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2141-maximum-running-time-of-n-computers](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2155-find-missing-observations](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
