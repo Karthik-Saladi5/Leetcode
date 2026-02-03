@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3618-split-array-by-prime-indices](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3618-split-array-by-prime-indices) |
+| [3637-trionic-array-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3637-trionic-array-i) |
 ## Greedy
 |  |
 | ------- |
