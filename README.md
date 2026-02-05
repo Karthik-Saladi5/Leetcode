@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3227-find-missing-and-repeated-values](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3379-transformed-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3379-transformed-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
