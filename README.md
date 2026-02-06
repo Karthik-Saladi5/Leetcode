@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3618-split-array-by-prime-indices](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3618-split-array-by-prime-indices) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3637-trionic-array-i) |
 ## Greedy
 |  |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2699-count-the-number-of-fair-pairs](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Recursion
 |  |
 | ------- |
