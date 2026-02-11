@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0909-stone-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0909-stone-game) |
 | [0910-nth-magical-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0920-uncommon-words-from-two-sentences](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
