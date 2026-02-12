@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3221-find-the-peaks](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3221-find-the-peaks) |
+| [3713-longest-balanced-substring-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Matrix
 |  |
 | ------- |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3451-string-compression-iii) |
+| [3713-longest-balanced-substring-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3798-largest-even-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3798-largest-even-number) |
 ## Counting
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Brainteaser
 |  |
 | ------- |
