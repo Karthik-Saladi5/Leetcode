@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0645-set-mismatch) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
