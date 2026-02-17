@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0231-power-of-two) |
+| [0401-binary-watch](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0645-set-mismatch) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0401-binary-watch) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String Matching
