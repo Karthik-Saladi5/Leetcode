@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3618-split-array-by-prime-indices](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2650-split-with-minimum-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Database
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3713-longest-balanced-substring-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Karthik-Saladi5/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
