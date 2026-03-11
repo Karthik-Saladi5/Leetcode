@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
