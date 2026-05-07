@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3618-split-array-by-prime-indices](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3637-trionic-array-i) |
+| [3660-jump-game-ix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3660-jump-game-ix) |
 | [3719-longest-balanced-subarray-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0909-stone-game](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Karthik-Saladi5/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [3660-jump-game-ix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3660-jump-game-ix) |
 ## Game Theory
 |  |
 | ------- |
