@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0039-combination-sum) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0165-compare-version-numbers](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0179-largest-number) |
 | [0567-permutation-in-string](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0567-permutation-in-string) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Karthik-Saladi5/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Design
