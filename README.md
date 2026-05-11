@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3637-trionic-array-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3637-trionic-array-i) |
 | [3660-jump-game-ix](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3660-jump-game-ix) |
 | [3719-longest-balanced-subarray-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3788-maximum-score-of-a-split](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3788-maximum-score-of-a-split) |
 ## Greedy
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3427-special-array-ii](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3788-maximum-score-of-a-split](https://github.com/Karthik-Saladi5/Leetcode/tree/master/3788-maximum-score-of-a-split) |
 ## Hash Table
 |  |
 | ------- |
